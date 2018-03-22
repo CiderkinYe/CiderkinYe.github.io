@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
-title: GitHub pages template
-description: A simple template based on minimal jekyll theme
+title: Interactive Plotting
+description: A simple example to show the interactive plot
 show_downloads: True
 navigation:
   - title: Home
